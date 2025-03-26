@@ -28,7 +28,7 @@ A real-time virtual drum kit powered by **OpenCV & Mediapipe** for hand tracking
 
 ### 🤖 DeadlyRBot (Telegram Bot)
 A smart **lecture reminder bot** that automates schedules & notifications.
-🔗 [Project Link](https://github.com/rupak1005/deadlyRBot)
+🔗 [Project Link](https://github.com/rupak1005/deadlybot)
 
 ### 📊 Machine Learning Models
 - 🪨 **Rock vs Mine Prediction (Logistic Regression)**
