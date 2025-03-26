@@ -1,34 +1,82 @@
+# Hi there, I'm Rupak! 👋
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rupak-kumar-saini/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+🚀 **AI & Full-Stack Developer | Open-Source Contributor | Tech Enthusiast**  
+I thrive on building cutting-edge AI systems, immersive web applications, and pushing the limits of automation. Passionate about problem-solving, optimization, and crafting seamless digital experiences.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79400&width=500&lines=AI+%7C+Web+Dev+%7C+Automation+%7C+Open-Source"/>
+</p>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux" alt="Archlinux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## 🔥 **About Me**
+- 💻 Specializing in **Machine Learning, AI, Web Development & Automation**
+- 🛠️ Proficient in **Python, JavaScript, Go, C++, and more**
+- 📚 Exploring **React, Backend Systems, and 3D Web Animation**
+- 🎯 Building **AI-powered real-time applications, automation tools, and optimizations**
+- 🌟 Active open-source contributor with **Telegram bots & AI models**
+- 🏴‍☠️ Power User of **Arch Linux** & lover of customization and efficiency
+
+## 🚀 **Projects & Highlights**
+### 🎹 Virtual AI-Powered Piano
+An interactive piano that uses **OpenVINO for hand tracking** and **Pygame for sound playback**.
+🔗 [Project Link](https://github.com/rupak1005/virtual_piano)
+
+### 🥁 Virtual AI Drum Kit
+A real-time virtual drum kit powered by **OpenCV & Mediapipe** for hand tracking.
+🔗 [Project Link](https://github.com/rupak1005/virtualDrum)
+
+### 🤖 DeadlyRBot (Telegram Bot)
+A smart **lecture reminder bot** that automates schedules & notifications.
+🔗 [Project Link](https://github.com/rupak1005/DeadlyRBot)
+
+### 📊 Machine Learning Models
+- 🪨 **Rock vs Mine Prediction (Logistic Regression)**
+- 🩺 **Diabetes Prediction (SVM-based Model)**
+- 📷 **Image Enhancement & Deblurring (CNN-based Model)**
+- 📜 **AI-powered Real-time Legal Notice Scanner** (Vision + NLP)
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### **Frameworks & Libraries**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Pygame](https://img.shields.io/badge/Pygame-008080?style=flat&logo=python&logoColor=white)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-FF6F00?style=flat&logo=mediapipe&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat&logo=intel&logoColor=white)
+
+### **Tools & Platforms**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+
+---
+
+## 🌍 **Let's Connect!**
+<p align="center">
+  <a href="mailto:rupak1005@example.com"><img src="https://img.shields.io/badge/Email-rupak1005%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rupak1005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/rupak1005"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/rupak1005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+✨ **Fun Fact**: I once organized a college anime movie screening with 100+ students! 🎬🍿
+
+💡 **“Code. Innovate. Break things. Repeat.”** 🚀
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rupak1005&theme=radical&hide_border=true&background=000000"/>
+</p>
+
