@@ -1,6 +1,6 @@
-# Hi there, I'm Rupak! 👋
+# Hi there, I'm Rupak! 
 
-🚀 **AI & Full-Stack Developer | Open-Source Contributor | Tech Enthusiast**  
+**AI & Full-Stack Developer | Open-Source Contributor | Tech Enthusiast**  
 I thrive on building cutting-edge AI systems, immersive web applications, and pushing the limits of automation. Passionate about problem-solving, optimization, and crafting seamless digital experiences.
 
 ---
@@ -9,15 +9,15 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79400&width=500&lines=AI+%7C+Web+Dev+%7C+Automation+%7C+Open-Source"/>
 </p>
 
-## 🔥 **About Me**
-- 💻 Specializing in **Machine Learning, AI, Web Development & Automation**
-- 🛠️ Proficient in **Python, JavaScript, Java, C++, and more**
-- 📚 Exploring **React, Backend Systems, and 3D Web Animation**
-- 🎯 Building **AI-powered real-time applications, automation tools, and optimizations**
-- 🌟 Active open-source contributor with **Telegram bots & AI models**
-- 🏴‍☠️ Power User of **Arch Linux** & lover of customization and efficiency
+## **About Me**
+- Specializing in **Machine Learning, AI, Web Development & Automation**
+- Proficient in **Python, JavaScript, Java, C++, and more**
+- Exploring **React, Backend Systems, and 3D Web Animation**
+- Building **AI-powered real-time applications, automation tools, and optimizations**
+- Active open-source contributor with **Telegram bots & AI models**
+- Power User of **Arch Linux** & lover of customization and efficiency
 
-## 🚀 **Projects & Highlights**
+## **Projects & Highlights**
 ### 🎹 Virtual AI-Powered Piano
 An interactive piano that uses **OpenVINO for hand tracking** and **Pygame for sound playback**.
 🔗 [Project Link](https://github.com/rupak1005/virtual_piano)
