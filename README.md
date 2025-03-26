@@ -11,7 +11,7 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 
 ## 🔥 **About Me**
 - 💻 Specializing in **Machine Learning, AI, Web Development & Automation**
-- 🛠️ Proficient in **Python, JavaScript, Go, C++, and more**
+- 🛠️ Proficient in **Python, JavaScript, Java, C++, and more**
 - 📚 Exploring **React, Backend Systems, and 3D Web Animation**
 - 🎯 Building **AI-powered real-time applications, automation tools, and optimizations**
 - 🌟 Active open-source contributor with **Telegram bots & AI models**
