@@ -6,7 +6,7 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 ---
 
 
-Portfolio: [https://lovable.dev/projects/7aa97239-b088-4ea6-a2af-02fa3fd24533](https://creative-spark-vista.lovable.app/)
+Portfolio: [[https://lovable.dev/projects/7aa97239-b088-4ea6-a2af-02fa3fd24533](https://creative-spark-vista.lovable.app/)](https://rupak-s.netlify.app/)
 
 
 
