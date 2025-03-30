@@ -21,7 +21,7 @@ Portfolio: https://rupak-s.netlify.app/
 - Building **AI-powered real-time applications, automation tools, and optimizations**
 - Active open-source contributor with **Telegram bots & AI models**
 - Power User of **Arch Linux** & lover of customization and efficiency
-- 
+
 ## 🚀 Projects & Highlights  
 
 🎛 **Manageo-Productum**  
@@ -31,13 +31,13 @@ A product management system for efficient tracking and organization. [🔗 Proje
 A real-time chat application enabling seamless communication. [🔗 Project Link](https://github.com/rupak1005/chat-app)  
 
 🎹 **Virtual AI-Powered Piano**  
-An interactive piano that uses OpenVINO for hand tracking and Pygame for sound playback. 🔗 Project Link  
+An interactive piano that uses OpenVINO for hand tracking and Pygame for sound playback. 
 
 🥁 **Virtual AI Drum Kit**  
-A real-time virtual drum kit powered by OpenCV & Mediapipe for hand tracking. 🔗 Project Link  
+A real-time virtual drum kit powered by OpenCV & Mediapipe for hand tracking.  
 
 🤖 **DeadlyRBot (Telegram Bot)**  
-A smart lecture reminder bot that automates schedules & notifications. 🔗 Project Link  
+A smart lecture reminder bot that automates schedules & notifications. 
 
 📊 **Machine Learning Models**  
 - 🪨 **Rock vs Mine Prediction** (Logistic Regression)  
