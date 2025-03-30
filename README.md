@@ -5,8 +5,8 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 
 ---
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rupak-s.netlify.app/)
 
-Portfolio: https://rupak-s.netlify.app/
 
 
 
