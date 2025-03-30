@@ -57,7 +57,7 @@ A smart lecture reminder bot that automates schedules & notifications.
 ### **Frameworks & Libraries**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Pygame](https://img.shields.io/badge/Pygame-008080?style=flat&logo=python&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-FF6F00?style=flat&logo=mediapipe&logoColor=white)
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=flat&logo=intel&logoColor=white)
