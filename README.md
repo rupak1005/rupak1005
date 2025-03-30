@@ -23,6 +23,15 @@ Portfolio: https://rupak-s.netlify.app/
 - Power User of **Arch Linux** & lover of customization and efficiency
 
 ## **Projects & Highlights**
+
+🎛 **Manageo-Productum**  
+
+A product management system for efficient tracking and organization. [🔗 Project Link](https://github.com/rupak1005/manageo-productum)  
+
+💬 **Chat-App**  
+
+A real-time chat application enabling seamless communication. [🔗 Project Link](https://github.com/rupak1005/chat-app)  
+
 ### 🎹 Virtual AI-Powered Piano
 An interactive piano that uses **OpenVINO for hand tracking** and **Pygame for sound playback**.
 🔗 [Project Link](https://github.com/rupak1005/virtual_piano)
