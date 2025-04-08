@@ -24,30 +24,30 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 
 ##  Projects & Highlights  
 
-🎛 **Manageo-Productum**  
+ **Manageo-Productum**  
 A product management system for efficient tracking and organization. [🔗 Project Link](https://github.com/rupak1005/manageo-productum)  
 
-💬 **Chat-App**  
+ **Chat-App**  
 A real-time chat application enabling seamless communication. [🔗 Project Link](https://github.com/rupak1005/chat-app)  
 
-🎹 **Virtual AI-Powered Piano**  
+ **Virtual AI-Powered Piano**  
 An interactive piano that uses OpenVINO for hand tracking and Pygame for sound playback. 
 
-🥁 **Virtual AI Drum Kit**  
+ **Virtual AI Drum Kit**  
 A real-time virtual drum kit powered by OpenCV & Mediapipe for hand tracking.  
 
-🤖 **DeadlyRBot (Telegram Bot)**  
+ **DeadlyRBot (Telegram Bot)**  
 A smart lecture reminder bot that automates schedules & notifications. 
 
-📊 **Machine Learning Models**  
-- 🪨 **Rock vs Mine Prediction** (Logistic Regression)  
-- 🩺 **Diabetes Prediction** (SVM-based Model)  
-- 📷 **Image Enhancement & Deblurring** (CNN-based Model)  
-- 📜 **AI-powered Real-time Legal Notice Scanner** (Vision + NLP)  
+ **Machine Learning Models**  
+-  **Rock vs Mine Prediction** (Logistic Regression)  
+-  **Diabetes Prediction** (SVM-based Model)  
+-  **Image Enhancement & Deblurring** (CNN-based Model)  
+-  **AI-powered Real-time Legal Notice Scanner** (Vision + NLP)  
 
 
 
-## 🛠️ **Tech Stack & Tools**
+##  **Tech Stack & Tools**
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -71,7 +71,7 @@ A smart lecture reminder bot that automates schedules & notifications.
 
 ---
 
-## 🌍 **Let's Connect!**
+##  **Let's Connect!**
 <p align="center">
   <a href="mailto:rupak1005saini@gmail.com"><img src="https://img.shields.io/badge/gmail-rupak1005saini%40saini.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rupak1005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -81,9 +81,9 @@ A smart lecture reminder bot that automates schedules & notifications.
 
 ---
 
-✨ **Fun Fact**: I once organized a college anime movie screening with 100+ students! 🎬🍿
+ **Fun Fact**: I once organized a college anime movie screening with 100+ students! 
 
-💡 **“Code. Innovate. Break things. Repeat.”** 🚀
+ **“Code. Innovate. Break things. Repeat.”** 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rupak1005&theme=radical&hide_border=true&background=000000"/>
