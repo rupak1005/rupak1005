@@ -22,7 +22,7 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 - Active open-source contributor with **Telegram bots & AI models**
 - Power User of **Arch Linux** & lover of customization and efficiency
 
-## 🚀 Projects & Highlights  
+##  Projects & Highlights  
 
 🎛 **Manageo-Productum**  
 A product management system for efficient tracking and organization. [🔗 Project Link](https://github.com/rupak1005/manageo-productum)  
