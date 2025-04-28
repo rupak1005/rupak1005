@@ -22,36 +22,6 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 
 ---
 
-##  Projects & Highlights
-
-###  [File Encryption Tool](https://github.com/rupak1005/file-encryption-tool)
-A Python-based GUI tool for drag-and-drop file encryption with a password strength meter and secure password management. Ideal for keeping sensitive files protected locally.
-
-###  [AI-Legal-Document-Scanner](https://github.com/rupak1005/ai-legal-document-scanner)
-AI-powered real-time scanner that extracts text, identifies form fields, and summarizes legal documents using OCR, LayoutLM, and NLP. Built with Streamlit.
-
-###  [Manageo-Productum](https://github.com/rupak1005/manageo-productum)
-A sleek product management system for tracking and organizing products efficiently.
-
-###  [Chat-App](https://github.com/rupak1005/chat-app)
-Real-time chat application enabling seamless communication between users with modern UI design.
-
-###  Virtual AI-Powered Piano
-An interactive virtual piano using OpenVINO for hand tracking and Pygame for audio synthesis.
-
-###  Virtual AI Drum Kit
-A real-time drum kit built using OpenCV & Mediapipe to detect hand gestures for virtual drumming.
-
-###  DeadlyRBot (Telegram Bot)
-A lecture scheduler and daily reminder bot with smart automation and user-friendly commands.
-
-###  Machine Learning Projects
--  **Rock vs Mine Prediction** (Logistic Regression)
--  **Diabetes Prediction** (SVM)
--  **Image Enhancement & Deblurring** (CNN-based)
-
----
-
 ## 🛠 Tech Stack & Tools
 
 ###  Programming Languages
