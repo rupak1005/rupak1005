@@ -4,6 +4,7 @@
 I thrive on building cutting-edge AI systems, immersive web applications, and pushing the limits of automation. Passionate about problem-solving, optimization, and crafting seamless digital experiences.
 
 ---
+![](https://komarev.com/ghpvc/?username=rupak1005&color=green&style=for-the-badge&label=VISITOR+COUNT&base=926)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rupak-s.netlify.app/)
 
