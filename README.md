@@ -9,7 +9,7 @@ I thrive on building cutting-edge AI systems, immersive web applications, and pu
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rupak-s.netlify.app/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79400&width=500&lines=AI+%7C+Web+Dev+%7C+Automation+%7C+Open-Source"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=F79400&width=550&lines=AI+|+Web+Dev+|+Automation+|+Open-Source"/>
 </p>
 
 ##  About Me
