@@ -6,7 +6,7 @@ I specialize in building high-performance web apps with modern frameworks, inter
 ---
 ![](https://komarev.com/ghpvc/?username=rupak1005&color=green&style=for-the-badge&label=VISITOR+COUNT&base=926)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rupak-s.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://modern-portfolio-pink.vercel.app/)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=22&pause=2000&color=F79400&width=550&lines=Next.js+|+Three.js+|+GSAP+|+Framer+Motion"/>
